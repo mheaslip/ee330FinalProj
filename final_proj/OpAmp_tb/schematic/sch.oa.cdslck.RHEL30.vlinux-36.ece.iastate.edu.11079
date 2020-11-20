@@ -13,4 +13,4 @@ AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/mheaslip/ee330/ee330FinalProj/final_proj/OpAmp_tb/schematic/sch.oa.cdslck
-TimeEditLocked                 Thu Nov 19 18:23:01 2020 CST
+TimeEditLocked                 Thu Nov 19 19:00:07 2020 CST
