@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      mheaslip
 HostName                       vlinux-36.ece.iastate.edu
-ProcessIdentifier              11079
-ProcessCreationTime_UTC        1605830224
-ProcessCreationTime_Readable   Thu Nov 19 17:57:04 2020 CST
+ProcessIdentifier              24891
+ProcessCreationTime_UTC        1605841109
+ProcessCreationTime_Readable   Thu Nov 19 20:58:29 2020 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/mheaslip/ee330/ee330FinalProj/final_proj/OpAmp_tb/schematic/sch.oa.cdslck
-TimeEditLocked                 Thu Nov 19 19:00:07 2020 CST
+FilePathUsedToEditLock         /home/mheaslip/ee330/ee330FinalProj/final_proj/OpAmp_stb/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Nov 19 21:12:57 2020 CST
